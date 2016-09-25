@@ -1,5 +1,5 @@
 """
-Author: Mohammed Fahad Kaleem
+Tests for Searching
 """
 
 import unittest
@@ -10,6 +10,9 @@ from algorithms.searching import (
 
 
 class TestLinearSearch(unittest.TestCase):
+    """
+    Tests Linear search with a Integer or String Lists
+    """
     def setUp(self):
         self.inputList = [2,65,12,90,123,76,71]
         self.stringList = ['cat','apple','orange','bananan']
