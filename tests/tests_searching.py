@@ -39,6 +39,9 @@ class TestLinearSearch(unittest.TestCase):
 
 
 class TestBinarySearch(unittest.TestCase):
+    """
+    Tests for Binary search
+    """
     def setUp(self):
         self.inputList = [2,65,12,90,123,76,71]
         self.low = 0

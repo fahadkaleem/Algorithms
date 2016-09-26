@@ -29,6 +29,15 @@ def iterative_search(inputList,key):
     return False
 
 def recursive_search(inputList,low,high,key):
+    """
+    Recursive approach for Binary Search, Checks if the 'key' is in the inputList
+    :param inputList: A list with elements
+    :param low: Lower index of the list
+    :param high: Higher index of the list
+    :param key: An element that needs to be found in the list
+    :return: Returns index if the 'key' is found
+             Returns 'False' if the 'key' is not found
+    """
     if len(inputList) == 0:
         return False
     if high>=low:
