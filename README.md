@@ -1,6 +1,12 @@
 # Algorithms [![codecov](https://codecov.io/gh/fahadkaleem/Algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/fahadkaleem/Algorithms)
 Implementation of Algorithms
-To run the programs, just use the python filename.py command.
+
+## Run
+To run any program, just use the following command
+```python
+python filename.py
+```
+
 
 Following is the list of various algorithms included in this library
 ##### Searching Algorithms
