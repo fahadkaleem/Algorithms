@@ -20,6 +20,10 @@ ___
 ___
 | Algorithm  |Time Complexity   | Space Complexity  |
 |:---:|:---:|:---:|
-| |    |   |
+|Bubble Sort |    |   |
+
 |   |   |   |
-|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
