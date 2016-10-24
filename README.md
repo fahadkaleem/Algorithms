@@ -40,3 +40,6 @@ ___
 |Prim’s MST for Adjacency List Representation   |   |   |
 |Dijkstra’s Shortest Path Algorithm|||
 |Dijkstra’s Algorithm for Adjacency List Representation|||
+|Job Sequencing Problem|||
+||||
+||||
