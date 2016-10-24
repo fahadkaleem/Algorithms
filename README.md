@@ -39,3 +39,4 @@ ___
 |Prim’s Minimum Spanning Tree Algorithm   |   |   |
 |Prim’s MST for Adjacency List Representation   |   |   |
 |Dijkstra’s Shortest Path Algorithm|||
+|Dijkstra’s Algorithm for Adjacency List Representation|||
