@@ -33,7 +33,7 @@ ___
 | Algorithm  |Time Complexity   | Space Complexity  |
 |:---:|:---:|:---:|
 |Activity Selection Problem |    |   |
-|   |   |   |
+|Kruskal’s Minimum Spanning Tree Algorithm  |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
