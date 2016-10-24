@@ -24,7 +24,7 @@ ___
 |Selection Sort   |   |   |
 |Insertion Sort   |   |   |
 |Merge Sort   |   |   |
-|   |   |   |
+|Heap Sort   |   |   |
 |   |   |   |
 |   |   |   |
 
