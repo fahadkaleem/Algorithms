@@ -38,3 +38,4 @@ ___
 |Efficient Huffman Coding for Sorted Input   |   |   |
 |Prim’s Minimum Spanning Tree Algorithm   |   |   |
 |Prim’s MST for Adjacency List Representation   |   |   |
+|Dijkstra’s Shortest Path Algorithm|||
