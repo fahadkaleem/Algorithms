@@ -36,5 +36,5 @@ ___
 |Kruskal’s Minimum Spanning Tree Algorithm  |   |   |
 |Huffman Coding   |   |   |
 |Efficient Huffman Coding for Sorted Input   |   |   |
-|   |   |   |
+|Prim’s Minimum Spanning Tree Algorithm   |   |   |
 |   |   |   |
