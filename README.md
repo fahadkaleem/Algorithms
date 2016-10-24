@@ -41,5 +41,5 @@ ___
 |Dijkstra’s Shortest Path Algorithm|||
 |Dijkstra’s Algorithm for Adjacency List Representation|||
 |Job Sequencing Problem|||
-||||
+|Greedy Algorithm to find Minimum number of Coins|||
 ||||
