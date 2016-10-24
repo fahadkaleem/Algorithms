@@ -21,6 +21,7 @@ ___
 | Algorithm  |Time Complexity   | Space Complexity  |
 |:---:|:---:|:---:|
 |Bubble Sort |    |   |
+|Selection Sort   |   |   |
 
 |   |   |   |
 |   |   |   |
