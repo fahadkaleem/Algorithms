@@ -26,5 +26,10 @@ ___
 |Merge Sort   |   |   |
 |Heap Sort   |   |   |
 |Quick Sort   |   |   |
-|   |   |   |
 
+
+##### Greedy Algorithms
+___
+| Algorithm  |Time Complexity   | Space Complexity  |
+|:---:|:---:|:---:|
+|Activity Selection Problem |    |   |
