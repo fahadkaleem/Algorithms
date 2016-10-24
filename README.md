@@ -10,14 +10,12 @@ python filename.py
 
 Following is the list of various algorithms included in this library
 ## Searching Algorithms
-___
 | Algorithm  |Time Complexity   | Space Complexity  |
 |:---:|:---:|:---:|
 |[Linear Search](https://github.com/fahadkaleem/algorithms/blob/master/algorithms/searching/linear_search.py)  |O(n)   |   |
 |[Binary Search](https://github.com/fahadkaleem/algorithms/blob/master/algorithms/searching/binary_search.py)   | O(log n)   |   |
-
-## Sorting Algorithms
 ___
+## Sorting Algorithms
 | Algorithm  |Time Complexity   | Space Complexity  |
 |:---:|:---:|:---:|
 |Bubble Sort |    |   |
@@ -26,10 +24,8 @@ ___
 |Merge Sort   |   |   |
 |Heap Sort   |   |   |
 |Quick Sort   |   |   |
-
-
-## Greedy Algorithms
 ___
+## Greedy Algorithms
 | Algorithm  |Time Complexity   | Space Complexity  |
 |:---:|:---:|:---:|
 |Activity Selection Problem |    |   |
