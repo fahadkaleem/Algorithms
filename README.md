@@ -34,7 +34,7 @@ ___
 |:---:|:---:|:---:|
 |Activity Selection Problem |    |   |
 |Kruskal’s Minimum Spanning Tree Algorithm  |   |   |
-|   |   |   |
+|Huffman Coding   |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
